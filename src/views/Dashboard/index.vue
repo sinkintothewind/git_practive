@@ -12,6 +12,7 @@
           <div class="headInfoTip">
             <p class="firstChild">早安，管理员，祝你开心每一天！</p>
             <p class="lastChild">早安，管理员，祝你开心快乐每一天！</p>
+            <p class="lastChild">晚安，管理员，祝你开心快乐每一天！</p>
           </div>
         </div>
         <div class="fr" />
