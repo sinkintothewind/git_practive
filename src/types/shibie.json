@@ -1,0 +1,11 @@
+{
+  "_id": "604f7df5f900be1850edb152",
+  "name": "员工管理",
+  "code": "employees",
+  "description": "用户管理菜单",
+  "type": 1,
+  "pid": "0",
+  "enVisible": "0",
+  "__v": 0,
+  "id": "604f7df5f900be1850edb152"
+}
